@@ -85,4 +85,4 @@ In the future it would be interesting to change JQuery for React or another more
 
 # Author:
 
-nyumaericjr: 
+Nyuma Eric Jr:
