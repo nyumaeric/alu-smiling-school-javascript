@@ -1,1 +1,0 @@
-# alu-smiling-school-javascript
